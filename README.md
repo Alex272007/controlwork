@@ -8,4 +8,4 @@
 
 
 # _Блок-схема:_
-![Блок-схема](Algorithm.jpg)
+![Блок-схема](https://github.com/Alex272007/controlwork/blob/main/.gitignore)
